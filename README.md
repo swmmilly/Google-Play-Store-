@@ -27,6 +27,9 @@
       4. Dual-Layer Review Storage: RawReviews table records immutable raw source layer, and ProcessedReviews is a more advanced and optimized layer. With these table, we can still trace back to the original reviews even we have made modifications on the reviews. 
 
 
+5. Current Project Stage
+   Currently, I am working on a small controlled ingestion test to check whether the schema works with real data flowing through it.
+
 
 
 
